@@ -1,0 +1,141 @@
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\RedisDemo.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\RedisDemo.pdb
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Antlr3.Runtime.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\AspNet.ScriptManager.jQuery.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.AspNet.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.Core.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\EntityFramework.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Microsoft.ScriptManager.WebForms.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Microsoft.Web.Infrastructure.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\System.Web.Optimization.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\System.Web.Providers.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\WebGrease.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\EntityFramework.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.Core.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.AspNet.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\zh-Hans\EntityFramework.resources.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\zh-Hans\System.Web.Providers.resources.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.pdb
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\ServiceStack.Common.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\ServiceStack.Interfaces.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\ServiceStack.Redis.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\ServiceStack.Text.dll
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\ServiceStack.Common.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\ServiceStack.Interfaces.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\ServiceStack.Redis.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\ServiceStack.Text.xml
+d:\documents\visual studio 2012\Projects\MvcRedisDemo\RedisDemo\bin\RedisDemo.dll.config
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\RedisDemo.dll.config
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\RedisDemo.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\RedisDemo.pdb
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.Core.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Common.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Interfaces.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Redis.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Text.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Common.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Interfaces.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Redis.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Text.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.Core.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.dll
+C:\Users\Administrator\Desktop\RedisDemo\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.pdb
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\RedisDemo.dll.config
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\RedisDemo.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\RedisDemo.pdb
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Antlr3.Runtime.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\AspNet.ScriptManager.jQuery.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.AspNet.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.Core.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\EntityFramework.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.ScriptManager.WebForms.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.Web.Infrastructure.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Common.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Interfaces.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Redis.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Text.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\System.Web.Optimization.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\System.Web.Providers.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\WebGrease.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Common.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Interfaces.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Redis.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\ServiceStack.Text.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\EntityFramework.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.Core.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\DotNetOpenAuth.AspNet.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\EntityFramework.resources.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\System.Web.Providers.resources.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.csprojResolveAssemblyReference.cache
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.dll
+H:\redis模板\RedisDemo\MvcRedisDemo\RedisDemo\obj\Debug\RedisDemo.pdb
